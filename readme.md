@@ -1,6 +1,6 @@
-#Readme.md
+# Readme.md
 
-##Steps taken to complete the request
+## Steps taken to complete the request
 
 **Local server**
 * Provisioned a Centos 7 VM on my local server
@@ -29,7 +29,7 @@
 * Added global credentials for JFrog registry
 * Set up tools: Maven 3.8.4
 
-##How to run the project
+## How to run the project
 
 With Docker installed on the machine, run the following steps:
 * docker login -u _usernameSentByEmail_ -p _passwordSentByEmail_
